@@ -1,7 +1,7 @@
 ### Hello, I'm [Júlio](https://juliomartins.dev) 👋 
 
-**Fullstack developer** focused on **frontend** development, based in São Paulo, Brazil.
+**Fullstack developer**, based in São Paulo, Brazil.
 
-- 🎓 Graduated in the Systems Analysis and Development degree from Senac University Center
-- 🌱 Pursuing the Front-end Career Path from Scrimba
-- 🤍 Passionate about enhancing user and developer experiences
+- 🎓 Graduated in the **Systems Analysis and Development degree** from [**Senac University Center**](https://sp.senac.br/)
+- 🔭 Pursuing the **Front-end Career Path** from [**Scrimba**](https://scrimba.com/)
+- 🤍 Passionate about _enhancing user and developer experiences_

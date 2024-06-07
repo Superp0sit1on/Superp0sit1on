@@ -7,4 +7,4 @@
 - 🤍 Passionate about _enhancing user and developer experiences_
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background: url('https://github.com/Superp0sit1on/Superp0sit1on/blob/master/background.webp?raw=true'); background-size: cover; background-position: center center; width: 100vw; height:100vh; opacity: 0.5;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background: url('https://github.com/Superp0sit1on/Superp0sit1on/blob/main/background.webp?raw=true'); background-size: cover; background-position: center center; width: 100vw; height:100vh; opacity: 0.5;]{x0000}$}

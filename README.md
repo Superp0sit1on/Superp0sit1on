@@ -19,9 +19,7 @@
 </p>
 
 
-I am **Júlio**, a **Software Engineer**, based in São Paulo, Brazil, and **passionate about enhancing user and developer experiences**.
-
----
+<p align="center">I am <strong>Júlio</strong>, a <strong>Software Engineer</strong>, based in São Paulo, Brazil, and <strong>passionate about enhancing user and developer experiences</strong>.</p>
 
 <p align="center">
   <a href="https://youtube.com/@superp0sit1on">🎥 YouTube</a>

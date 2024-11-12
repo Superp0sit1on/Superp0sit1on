@@ -1,5 +1,8 @@
-<p align="center">
-  <img src="./logo.svg" height="80">
+<p 
+  align="center"
+  style="@media (prefers-color-scheme: dark) {.superp0sit1on-logo {fill: #ffffff;}} @media (prefers-color-scheme: light) {.superp0sit1on-logo {fill: #000000;}}"
+>
+  <img class="superp0sit1on-logo" src="./logo.svg" height="80">
 </p>
 
 <p align="center">
